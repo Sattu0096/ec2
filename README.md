@@ -1,4 +1,4 @@
-# 🔘Deploying The ALB🔘
+# 🔘Deploying The Auto-scalling🔘
 
 
 ## ⚪introduction
